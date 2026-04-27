@@ -22,11 +22,6 @@ Conducted exploratory data analysis on a large-scale video game sales dataset (~
 
 ---
 
-### 💳 Loan Analytics Dashboard
-Designed an interactive dashboard to analyze loan approvals, borrower profiles, and risk patterns. Performed data cleaning, segmentation, and trend analysis to identify key factors influencing loan approvals. Delivered insights using visualization techniques to support data-driven financial decision-making.
-
----
-
 ## 🛠 Tech Stack
 
 - **Languages:** Python, SQL  
@@ -51,8 +46,3 @@ Designed an interactive dashboard to analyze loan approvals, borrower profiles, 
 - LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
 - Email: your.email@gmail.com  
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
