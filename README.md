@@ -43,6 +43,6 @@ Conducted exploratory data analysis on a large-scale video game sales dataset (~
 
 ## 📬 Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- Email: your.email@gmail.com  
+- LinkedIn: https://linkedin.com/in/ankita-thakur-a49a96323 
+- Email: ankita.thakur2024@nst.rishihood.edu.in  
 
