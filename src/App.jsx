@@ -45,20 +45,21 @@ function ProjectCard({ title, desc, tags, img, link }) {
 
 export default function App() {
   const [search, setSearch] = useState("");
+  const baseURL = import.meta.env.BASE_URL;
 
   const projects = [
     {
       title: "Retail Order Prioritization Dashboard",
       desc: "Developed a data-driven retail analytics dashboard using ~12.6K transaction records to identify high-value orders and revenue concentration patterns. Performed customer segmentation, category-wise performance analysis, and evaluated pricing and purchase behavior. Designed KPI-driven insights including AOV and revenue share to support strategic decision-making and optimize order prioritization.",
       tags: ["Python", "SQL", "Tableau"],
-      img: "image1.png",
+      img: `${baseURL}image1.png`,
       link: "https://github.com/Ankita280609/DVA_capstone"
     },
     {
       title: "Video Game Sales Analysis",
       desc: "Conducted exploratory data analysis on a large-scale video game sales dataset (~16K records) to uncover global trends across regions, platforms, and genres. Analyzed sales distribution, regional performance, and genre popularity using Python-based tools. Developed visualizations to highlight key patterns and correlations, enabling data-driven insights into market dynamics and consumer preferences.",
       tags: ["Python", "EDA", "Visualization"],
-      img: "image2.png",
+      img: `${baseURL}image2.png`,
       link: "https://github.com/paramkhodiyar/SecE_G15_VideoGameSales"
     },
 
@@ -74,7 +75,7 @@ export default function App() {
       {/* SIDEBAR */}
       <div className="w-[300px] p-6 border-r border-gray-800 flex flex-col items-center">
 
-        <img src="profile.jpg" alt="Profile" className="w-40 h-40 rounded-full mb-4" />
+        <img src={`${baseURL}profile.jpg`} alt="Profile" className="w-40 h-40 rounded-full mb-4" />
 
         <h2 className="text-xl font-bold">Ankita Thakur</h2>
         <p className="text-gray-400">@ankita</p>
