@@ -1,16 +1,58 @@
-# React + Vite
+# 👋 Hi, I'm Ankita Thakur
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Data Analyst specializing in data visualization and analytics, transforming complex datasets into actionable insights using Python, SQL, and Tableau.  
+Focused on building structured analyses and dashboards that support real-world decision-making.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Portfolio
+🔗 [View My Portfolio](http://localhost:5173/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Featured Projects
 
-## Expanding the ESLint configuration
+### 📊 Retail Order Prioritization Dashboard
+Developed a data-driven retail analytics dashboard using ~12.6K transaction records to identify high-value orders and revenue concentration patterns. Performed customer segmentation, category-wise performance analysis, and evaluated pricing and purchase behavior. Designed KPI-driven insights including AOV and revenue share to support strategic decision-making.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🎮 Video Game Sales Analysis
+Conducted exploratory data analysis on a large-scale video game sales dataset (~16K records) to uncover global trends across regions, platforms, and genres. Analyzed sales distribution, regional performance, and genre popularity using Python-based tools. Developed visualizations to highlight key patterns and correlations for market insights.
+
+---
+
+### 💳 Loan Analytics Dashboard
+Designed an interactive dashboard to analyze loan approvals, borrower profiles, and risk patterns. Performed data cleaning, segmentation, and trend analysis to identify key factors influencing loan approvals. Delivered insights using visualization techniques to support data-driven financial decision-making.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Visualization:** Tableau, Power BI  
+- **Tools:** Excel, Google Sheets  
+- **Concepts:** EDA, Data Cleaning, KPI Analysis, Dashboarding  
+
+---
+
+## 🎯 Focus Areas
+
+- Data Visualization & Dashboarding  
+- Exploratory Data Analysis (EDA)  
+- KPI-driven business insights  
+- Real-world dataset analysis  
+
+---
+
+## 📬 Contact
+
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
+- Email: your.email@gmail.com  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
